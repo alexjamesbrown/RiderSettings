@@ -1,0 +1,33 @@
+<keymap version="1" name="Visual Studio OSX (Alex)" parent="Visual Studio OSX">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta o" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="u" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoFile" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="NewElement" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="g" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="TodoViewGroupByShowModules" />
+  <action id="Vcs.ShowMessageHistory" />
+</keymap>
