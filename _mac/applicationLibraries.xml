@@ -1,0 +1,41 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery-2.2.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery_jquery-2.2.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery_jquery-2.2.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.validate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery.validate_1.16.0_jquery.validate.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery.validate_1.16.0_jquery.validate.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery.validate.unobtrusive" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery.validation.unobtrusive_3.2.6_jquery.validate.unobtrusive.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_jquery.validation.unobtrusive_3.2.6_jquery.validate.unobtrusive.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
