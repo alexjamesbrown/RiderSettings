@@ -1,4 +1,15 @@
 <keymap version="1" name="Visual Studio OSX (Alex)" parent="Visual Studio OSX">
+  <action id="ActivateBuildToolWindow" />
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -6,11 +17,15 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta o" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta add" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="u" />
   </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="GotoFile" />
   <action id="Images.ShowThumbnails" />
